@@ -1,0 +1,2 @@
+NID---First Name---Last Name---Father Name---Mother Name---Gender---Relegion---District---Upzila---Post Office---Union---Ward---House Name---Mobile---Comment
+2222222222---rohima---khatun---md  kamal---runa begum---Male---Islam---Dhaka---Adabor---Bibirhat---char romiz---08---Member Bari---01868759586---Demo Cheek

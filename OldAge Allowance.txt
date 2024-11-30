@@ -1,0 +1,2 @@
+NID---First Name---Last Name---Father Name---Mother Name---Gender---Relegion---District---Upzila---Post Office---Union---Ward---House Name---Mobile---Comment
+4212401535---Akramul---Reja---md  rohim---amena begum---Male---Islam---Dhaka---Adabor---Bibirhat---char romiz---08---Member Bari---01868756686---Demo Cheek
